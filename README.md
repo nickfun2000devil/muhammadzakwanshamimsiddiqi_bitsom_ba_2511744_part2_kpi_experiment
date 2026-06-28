@@ -76,7 +76,7 @@ While the primary funnel test proved a massive conversion expansion, optimizing 
 Below is the verified graphical evidence detailing the data engineering sheets, visual tree structures, and statistical calculations executed for this repository:
 
 ### ### 1. Main Experiment Summary Metrics
-![Funnel Performance Summary](screenshots/summary_metrics.png)
+![Funnel Performance Summary](screenshots/summary_metric.png)
 
 ### ### 2. Hypothesis Test Output & Mathematical Evidence
 ![Z-Test Execution Sheet](screenshots/hypothesis_test_output.png)
